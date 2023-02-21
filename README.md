@@ -1,6 +1,12 @@
 SpectroCoin Bitcoin Payment Extension
 ---------------
 
+**MOVED**
+
+Up to date version can be found in [SpectroCoin Repo](https://github.com/SpectroCoin/WHMCS-Bitcoin-Payment-Gateway-Plugin)
+
+---------------
+
 This merchant module integrates [SpectroCoin](https://spectrocoin.com/) Payments with [WHMCS](http://www.whmcs.com/) to accept [Bitcoin](https://bitcoin.org) payments.
 
 **INSTALLATION**
